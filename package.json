@@ -1,0 +1,29 @@
+{
+  "name": "response-codes-api-client",
+  "version": "1.0.0",
+  "description": "A client library for interacting with the Response Codes API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajamous/response-codes-api-client.git"
+  },
+  "keywords": [
+    "SMPP",
+    "HTTP",
+    "SIP",
+    "error codes",
+    "API client"
+  ],
+  "author": "Ameed Jamous <a.jamous@telecomsxchange.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajamous/response-codes-api-client/issues"
+  },
+  "homepage": "https://github.com/ajamous/response-codes-api-client#readme",
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
+}
